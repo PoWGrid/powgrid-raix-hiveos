@@ -1,0 +1,6 @@
+*.tar.gz
+*.log
+.DS_Store
+powgrid-miner/*.log
+powgrid-miner/powgrid-ctx-rust-gpu-miner
+powgrid-miner/powgrid-raix-gpu-miner
